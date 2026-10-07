@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">nfqws2 Helper</string>
+    <string name="tile_label">nfqws2</string>
+    <string name="notification_channel">nfqws2 status</string>
+    <string name="tile_starting">nfqws2: starting…</string>
+    <string name="tile_stopping">nfqws2: stopping…</string>
+    <string name="tile_error">nfqws2: error</string>
+    <string name="tile_paused">nfqws2: paused</string>
+    <string name="tile_active">nfqws2: enabled</string>
+    <string name="tile_inactive">nfqws2: disabled</string>
+    <string name="notification_title_paused">nfqws2 · paused</string>
+    <string name="notification_title_running">nfqws2 · running</string>
+    <string name="notification_title_stopped">nfqws2 · stopped</string>
+    <string name="notification_strategy">Strategy: %1$s · PID: %2$s</string>
+    <string name="notification_home_wifi">Home Wi‑Fi: %1$s</string>
+    <string name="notification_disabled">DPI bypass is disabled</string>
+    <string name="action_start">Start</string>
+    <string name="action_stop">Stop</string>
+    <string name="action_refresh">Refresh</string>
+    <string name="command_timeout">Command timed out</string>
+    <string name="status_json_error">json-status error: %1$s</string>
+    <string name="status_root_error">Unknown root or module error</string>
+</resources>

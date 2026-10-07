@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">nfqws2 Helper</string>
+    <string name="tile_label">nfqws2</string>
+    <string name="notification_channel">nfqws2 status</string>
+    <string name="tile_starting">nfqws2: запуск…</string>
+    <string name="tile_stopping">nfqws2: остановка…</string>
+    <string name="tile_error">nfqws2: ошибка</string>
+    <string name="tile_paused">nfqws2: пауза</string>
+    <string name="tile_active">nfqws2: включён</string>
+    <string name="tile_inactive">nfqws2: выключен</string>
+    <string name="notification_title_paused">nfqws2 · пауза</string>
+    <string name="notification_title_running">nfqws2 · работает</string>
+    <string name="notification_title_stopped">nfqws2 · остановлен</string>
+    <string name="notification_strategy">Стратегия: %1$s · PID: %2$s</string>
+    <string name="notification_home_wifi">Домашняя Wi‑Fi: %1$s</string>
+    <string name="notification_disabled">Обход DPI выключен</string>
+    <string name="action_start">Запустить</string>
+    <string name="action_stop">Остановить</string>
+    <string name="action_refresh">Обновить</string>
+    <string name="command_timeout">Время ожидания команды истекло</string>
+    <string name="status_json_error">Ошибка json-status: %1$s</string>
+    <string name="status_root_error">Неизвестная ошибка root или модуля</string>
+</resources>
