@@ -2,3 +2,6 @@ local.properties
 .gradle/
 build/
 app/build/
+app/release/
+app/debug/
+.idea
