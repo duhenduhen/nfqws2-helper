@@ -13,6 +13,7 @@
         <service
             android:name=".Nfqws2TileService"
             android:exported="true"
+            android:icon="@drawable/ic_nfqws2"
             android:label="@string/tile_label"
             android:permission="android.permission.BIND_QUICK_SETTINGS_TILE">
             <intent-filter>
